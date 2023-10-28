@@ -1,0 +1,91 @@
+
+.social-part .bi{
+	padding-right: 20px;
+}
+
+.information{
+	font-family: 'Comme', sans-serif;
+	color: #ABB2B9;
+	text-align: center;
+
+}
+
+
+.carousel-caption{
+		background-color: rgba(0, 100, 0, 0.3);
+		font-family: 'Comme', sans-serif;
+}
+
+.footer-snippet {
+	background: #147171 ;
+	
+}
+
+
+.custom-carousel{
+	width: 100vw; /* 100% da largura do container do carousel */
+  	height: auto;
+
+}
+
+.navbar{
+	background: #147171 !important ;
+
+}
+
+.navbar-nav{
+	background: #055160 !important ;
+}
+
+.nav-link.active {
+	color: #F9CD5E !important;
+}
+
+
+
+.notebooks_item , .desktops_item , .servers_item,  {
+	display: flex; 
+  align-items: center; 
+
+}
+
+.notebooks_item > .info , .desktops_item > .info , .servers_item > .info {
+flex: 2;
+font-size: 12px;
+}
+
+.notebooks_item > img , .desktops_item > img , .servers_item > img{
+	flex: 1 ;
+	margin-left: 10px;
+	width: 108px; 
+	height: 80px;
+	object-fit: cover;
+	
+}
+
+body{
+	font-family: 'Comme', sans-serif;
+	color: #F9CD5E !important;
+	background: #147171 !important ;
+	width: 99vw; /* 100% da largura da tela */
+  	height: 99vh; /* 100% da altura da tela */
+}
+
+div > ul{
+	list-style-type: none;
+	
+}
+
+.zoom {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.25);
+}
+
+

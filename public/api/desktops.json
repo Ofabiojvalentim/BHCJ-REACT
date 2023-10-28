@@ -1,0 +1,58 @@
+[
+    {
+        "ID":"1",
+        "Name":"Desktop Basic",
+        "Processor":"Core i3",
+        "RAM": "RAM: 4Gb 1333 DDR4",
+        "HD":"HD SSD 120Gb Kingston"
+    },
+    {
+        "ID":"2",
+        "Name":"Desktop Office",
+        "Processor":"Core i5",
+        "RAM": "8Gb 1333 DDR4",
+        "HD":"HD SSD 240Gb ADATA"
+    },
+    {
+        "ID":"3",
+        "Name":"Desktop for Devs",
+        "Processor":"Core i9",
+        "RAM": "16Gb 1333 DDR4",
+        "HD":"HD SSD 980b Samsung Pro"
+    },
+    {
+        "ID":"4",
+        "Name":"Desktop Office",
+        "Processor":"Core i5",
+        "RAM": "RAM: 8Gb 1333 DDR4",
+        "HD":"HD SSD 240Gb SanDisk"
+    },
+    {
+        "ID":"5",
+        "Name":"Desktop Basic",
+        "Processor":"AMD Ryzen 5",
+        "RAM": "8Gb 1333 DDR4",
+        "HD":"HD SSD 240Gb SanDisk"
+    },
+    {
+        "ID":"6",
+        "Name":"Desktop Basic",
+        "Processor":"Core i3",
+        "RAM": "4Gb 1333 DDR4",
+        "HD":"HD SSD 120Gb SanDisk"
+    },
+    {
+        "ID":"7",
+        "Name":"Desktop DELL SFF",
+        "Processor":"Core i7",
+        "RAM": "8Gb 1333 DDR4",
+        "HD":"HD SSD 240Gb SanDisk"
+    },
+    {
+        "ID":"8",
+        "Name":"Dektop For Designers",
+        "Processor":"Core i7",
+        "RAM": "8Gb 1333 DDR4",
+        "HD":"SSD 240Gb SanDisk"
+    }
+]

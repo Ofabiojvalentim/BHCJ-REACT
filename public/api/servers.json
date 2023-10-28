@@ -1,0 +1,44 @@
+[
+    {
+        "ID":"1",
+        "Name":"Dell T1900",
+        "Processor":"16 cores Xeon 12th Generation",
+        "RAM": "12Gb 3600 ECC",
+        "HD":"SAS 1.2Tb 10k"
+    },
+    {
+        "ID":"2",
+        "Name":"HP Elite Cloudserver",
+        "Processor":"32 cores Xeon 12th Generation",
+        "RAM": "32Gb  3600 ECC Extreme",
+        "HD":"SAS 1.2Tb 15k"
+    },
+    {
+        "ID":"3",
+        "Name":"NAS QNAP Server",
+        "Processor":"Quad Core 1.7Ghz",
+        "RAM": "1Gb DDR4",
+        "HD":"8Tb RAID 50"
+    },
+    {
+        "ID":"4",
+        "Name":"Personal Server",
+        "Processor":"Core i9",
+        "RAM": "32Gb 3600 DDR5",
+        "HD":"HD SSD 960Gb Samsung EVO Extreme"
+    },
+    {
+        "ID":"5",
+        "Name":"HP C7000 Blade",
+        "Processor":"128 Corees Xeon 13th Generation",
+        "RAM": "2Tb 3600 Dual GDDR5",
+        "HD":"1Pb SAS 30k"
+    },
+    {
+        "ID":"6",
+        "Name":"HPE ML 30 G10",
+        "Processor":"Xeon E2314 5.0Ghz ",
+        "RAM": "16Gb 3200 DDR4",
+        "HD":"HD SSD 960 SanDisk Elite"
+    }
+]

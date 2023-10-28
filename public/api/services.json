@@ -1,0 +1,27 @@
+[
+    {
+        "ID":"1",
+        "Name":"Survaillance",
+        "Description":"We can monitor all your environment, using high-end devices and well trained team and 24 survaillance"
+    },
+    {
+        "ID":"2",
+        "Name":"Cyber Security",
+        "Description":"The most important asset on your business is your data and cyber security is unvaluable thing you need to have"
+    },
+    {
+        "ID":"3",
+        "Name":"Datacenter",
+        "Description":"Top hign-end servers with redundant power supply avaiable for all workloads, DVC, PVC, SVC and much more"
+    },
+    {
+        "ID":"4",
+        "Name":"Network Cabling",
+        "Description":"We have a lot of project for network cabling, since little house or big companies, accomplishing all necessaries"
+    },
+    {
+        "ID":"5",
+        "Name":"Network Managment",
+        "Description":"You don't need to haver an IT deparment in or own. We can monitor all your assets!"
+    }
+]

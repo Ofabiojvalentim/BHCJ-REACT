@@ -1,0 +1,58 @@
+[
+    {
+        "ID":"1",
+        "Name":"Ultrabook Standard",
+        "Processor":"Core i5",
+        "RAM": "8Gb 1333 DDR",
+        "HD":"HD SSD 120Gb SanDisk"
+    },
+    {
+        "ID":"2",
+        "Name":"Ultrabook Entire",
+        "Processor":"Core i3",
+        "RAM": "4Gb 1333 DDR4",
+        "HD":"HD SSD 120Gb SanDisk"
+    },
+    {
+        "ID":"3",
+        "Name":"Ultrabook Professional",
+        "Processor":"Core i5",
+        "RAM": "16Gb 3600 DDR5",
+        "HD":"HD SSD 240Gb Samsung"
+    },
+    {
+        "ID":"4",
+        "Name":"Ultrabook Extreme",
+        "Processor":"Core i9",
+        "RAM": "32Gb 3600 DDR5",
+        "HD":"HD SSD 960Gb Samsung EVO Extreme"
+    },
+    {
+        "ID":"5",
+        "Name":"Ultrabook Basic",
+        "Processor":"Core i3",
+        "RAM": "4Gb 1333 DDR4",
+        "HD":"HD SSD 120Gb ADATA"
+    },
+    {
+        "ID":"6",
+        "Name":"Ultrabook Standard",
+        "Processor":"Core i5",
+        "RAM": "8Gb 1333 DDR4",
+        "HD":"HD SSD 240Gb SanDisk"
+    },
+    {
+        "ID":"7",
+        "Name":"Ultrabook Entire",
+        "Processor":"Core i3",
+        "RAM": "4Gb 1333 DDR4",
+        "HD":"HD SSD 120Gb SanDisk"
+    },
+    {
+        "ID":"8",
+        "Name":"Ultrabook Professional",
+        "Processor":"Core i5",
+        "RAM": "16Gb 3600 DDR5",
+        "HD":"HD SSD 240Gb Patriot"
+    }
+]
